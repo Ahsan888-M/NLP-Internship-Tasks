@@ -7,7 +7,7 @@ The tasks cover sentiment analysis, classification, fake news detection, and nam
 
 ---
 
-## 📌 Internship Overview  
+##  Internship Overview  
 The internship focused on applying foundational to intermediate-level NLP techniques, including:  
 - Text preprocessing (tokenization, stopword removal, lemmatization)  
 - Feature engineering (TF-IDF, vectorization)  
@@ -17,7 +17,7 @@ The internship focused on applying foundational to intermediate-level NLP techni
 
 ---
 
-## 📂 Repository Structure  
+##  Repository Structure  
 
 - **Task1_SentimentAnalysis.ipynb** → Sentiment Analysis on Product Reviews  
   - Dataset: IMDb / Amazon product reviews  
@@ -40,12 +40,10 @@ The internship focused on applying foundational to intermediate-level NLP techni
 
 ---
 
-## 🛠️ Tools & Libraries  
+## 🛠 Tools & Libraries  
 - Python, Google Colab  
 - NLTK, spaCy  
 - Scikit-learn  
 - Pandas, Matplotlib, WordCloud  
 
----
-
-✅ This repository showcases my internship journey and demonstrates practical applications of NLP on real-world datasets.  
+  
